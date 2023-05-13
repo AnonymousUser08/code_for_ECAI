@@ -1,3 +1,3 @@
 # code_for_ECAI
 
-We uploaded the estimated mean algorithm here for reviewers.
+We have uploaded the estimated mean algorithm for reviewers to access.
